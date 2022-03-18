@@ -1,24 +1,23 @@
-- Raesfeld 
-- Flughafen 
-- Berlin 
-- Bratwurst 
-- Hauptstrasse 
-- Brot 
-- Klimaanlage 
-- Rammstein 
-- Porsche
-- BMW 
-- Biergarten 
-- Ratskeller 
-- Dirndel 
-- Lederhose 
-- Schloss 
-- wettbewerbsfaehig 
-- Mehlhase 
-- Gebaeck
-- Baeckerei 
-- Hund 
-- Doener 
-- Apfelkuchen 
-- Schloss 
-- Eltz
+- Raesfeld | municipality in Germany
+- Flughafen | airport
+- Berlin | capital city of Germany
+- Bratwurst | German sausage, made of pork (less commonly beef or veal)
+- Hauptstrasse | main street
+- Brot | bread
+- Klimaanlage | airconditioner
+- Rammstein | German industrial metal band
+- Porsche | German luxury car manufacturar 
+- BMW | German luxury car manufacturar 
+- Biergarten | outdoor section of a public house, or an outdoor beer area
+- Ratskeller | a bar located in the basement of a city hall or nearby
+- Dirndel | folk costume (think Oktoberfest) worn in Bavaria
+- Lederhose | leather breeches worn in some regions of Germany
+- Schloss | castle
+- wettbewerbsfaehig | competitive 
+- Mehlhase | our professor
+- Gebaeck | cake our biscuits
+- Baeckerei | bakery
+- Hund | dog
+- Doener | popular street food, a meat kebab
+- Apfelkuchen | apple pie
+- Eltz | noted German family, with an eponymous castle
