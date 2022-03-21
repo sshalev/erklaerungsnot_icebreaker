@@ -1,0 +1,1 @@
+Na Lee | https://github.com/rmwells1/german_words/pull/7
