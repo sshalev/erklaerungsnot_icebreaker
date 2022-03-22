@@ -7,3 +7,5 @@ Jacob Saba | https://github.com/jsaba2/ser-316-initial-team-exercise/pull/1#issu
 David Campa | https://github.com/alucas10/ExercisingOurSitzfleisch/pull/7
 
 Shai Shalev | https://github.com/snorth2/Grimm-Geschichte/pull/4
+
+Luis Gonzalez | https://github.com/everemch/rumeiern-Icebreaker/pull/3
